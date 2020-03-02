@@ -1,7 +1,10 @@
 package Demo;
 
-public class GitDemo {
-public static void main(String[] args) {
-	System.out.println("Welcome to Git ");
+public class GitDemo 
+{
+	public static void main(String[] args) 
+	{
+	System.out.println("Welcome to Git Testing");
+	
 	}
 }
